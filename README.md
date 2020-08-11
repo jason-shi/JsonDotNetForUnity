@@ -1,5 +1,5 @@
 # Json .Net for Unity
-This repository is just a clone in github from the official project in Unity asset store in order to use it as submodule
+This repository is just a clone in github from the official FREE project in Unity asset store in order to use it as submodule
 
 The codes are provided as-they-are, unchanged from the official project,
 
